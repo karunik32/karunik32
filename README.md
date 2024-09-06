@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and development
 - 🌱 I’m currently learning MERN fullStack Development
 - 💞️ I’m looking to collaborate on various projects
-- 📫 How to reach me **karunik032@gmail.com**
+- 📫 How to reach me **karunik32@gmail.com**
 
 <!---
 karunik32/karunik32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
